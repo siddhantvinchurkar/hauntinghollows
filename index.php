@@ -18,7 +18,7 @@
 					<span class="icon major fa-cloud"></span>
 					<h1>Hi, I'm <strong>Haunting Hollows</strong>.<br />
 					It looks as though everything is functioning the way it should.</h1>
-				<p>Apache/2.4.29 (Ubuntu) Server at <a href="http://13.127.95.197" target="_blank">13.127.95.197</a> Port 443</p>
+				<p>Apache/2.4.29 (Ubuntu) Server at <a href="#">13.127.95.197</a> Port 443</p>
 					<ul class="actions">
 						<li><a href="#one" class="button scrolly">What's hosted on this server?</a></li>
 					</ul>
