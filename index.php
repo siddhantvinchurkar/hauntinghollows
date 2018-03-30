@@ -18,7 +18,7 @@
 					<span class="icon major fa-cloud"></span>
 					<h1>Hi, I'm <strong>Haunting Hollows</strong>.<br />
 					It looks as though everything is functioning the way it should.</h1>
-				<p>Apache/2.4.29 (Ubuntu) Server at <a href="#">13.127.244.239</a> Port 443</p>
+				<p>Apache/2.4.33 (Ubuntu 16.04 LTS) Server at <a href="#">13.127.244.239</a> Port 443</p>
 					<ul class="actions">
 						<li><a href="#one" class="button scrolly">What's hosted on this server?</a></li>
 					</ul>
@@ -38,6 +38,7 @@
 							<p><a href="https://sotf.in" target="_blank">Survival Of The Fittest (SOTF)</a></p>
 							<p><a href="https://hauntinghollows.ga">Haunting Hollows (This Website)</a></p>
 							<p><a href="https://siddhantvinchurkar.me" target="_blank">It's me!</a></p>
+							<p><a href="https://termpaper.ga" target="_blank">My Term Paper</a></p>
 							<p><a href="https://volatile.ga" target="_blank">Volatile, Inc.</a></p>
 						</div>
 						<div class="6u$ 12u$(medium) important(medium)">
